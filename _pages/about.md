@@ -20,12 +20,12 @@ redirect_from:
 I am Heejun Lee. I am an undergraduate student at the KAIST School of Computing. Hello, World! 🐱
 
 My research interest includes:
-- Neural Network Compression and Computation Optimization
+- Efficient AI Models and Frameworks
 - Large-scale Machine Learning System Design, Develop, and Serving
-- General Purpose AI (NLP/CV)
+- Neural Network Compression and Computation Optimization
 
 # 🔥 News
-- 2024.06.02: WIP
+- 2024.06.10: I made the homepage!
 
 # 📝 Publications 
 
